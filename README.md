@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/holding-your-hand-tight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Holding Your Hand Tight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holding-your-hand-tight/) |
+| **Get License** | [Secure Licensing Rights for Holding Your Hand Tight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holding-your-hand-tight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `273ce39fa6abeb9fd947f07326a688b2762f99e387e280cc4171ad0758edf9d5` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

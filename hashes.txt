@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Holding Your Hand Tight
+
+This log tracks the cryptographic history and versioning for the song **Holding Your Hand Tight** (holding-your-hand-tight).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:24:04.372586 | `v1` | `273ce39fa6abeb9fd947f07326a688b2762f99e387e280cc4171ad0758edf9d5` | `dd64ba4f78df6f53faa0e8723cd119692ee2d2edc2ebcb9612e6bebdf46c7fda` | `2026-05-26_holding-your-hand-tight-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
