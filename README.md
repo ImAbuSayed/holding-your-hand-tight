@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire beneath your skin tonight
+> Your fingers tracing shadows in the neon light
+> Every breath you take is pulling me inside
+> Holding your hand tight for the midnight ride
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
